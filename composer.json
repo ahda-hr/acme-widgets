@@ -1,0 +1,20 @@
+{
+    "name": "ahda/acme-widget",
+    "description": "A basket interface for madeup widgets",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ahda\\AcmeWidget\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahda Hardyatmaka",
+            "email": "ahda.hardyatmaka@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^2.0",
+        "phpunit/phpunit": "^11.4"
+    }
+}
