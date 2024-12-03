@@ -1,6 +1,6 @@
 # ACME Widget Basket
 
-A Basket for made up widgets
+A basket for made up widgets
 
 ## Test the App
 
@@ -8,7 +8,7 @@ A Basket for made up widgets
 2. Install dependencies using Composer
    `composer install`
 3. Test the app using PHPUnit
-   `./vendor/bin/phpunit src`
+   `./vendor/bin/phpunit tests`
 
 ## How the App Works
 
